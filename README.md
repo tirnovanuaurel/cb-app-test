@@ -12,7 +12,7 @@ This repository is a simple Angular CLI generated project. Contains no styles an
 
 ### 2. Coding Test
 
-Firstly, there are 2 branches in this project: cordova and capacitor. You can choose the one you prefer and you feel more comfortable to solve the exercise. 
+Firstly, there are 2 branches in this project: `feature/cordova` and `feature/capacitor`. You can choose the one you prefer and you feel more comfortable to solve the exercise. 
 
 ##### 2.1 Test description
 
