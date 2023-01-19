@@ -33,3 +33,6 @@ And basically you should display within the app the `utm_campaign` and `utm_medi
 
 
 You have ***4 hours*** to complete the test.
+
+
+### Note: if you require any other packages or configuration, feel free to install it
